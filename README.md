@@ -1,7 +1,4 @@
 # Daftar Embed LIVE STREAM - Channel TV Indonesia
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![GitHub forks](https://img.shields.io/github/forks/yogibagus/Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/yogibagus/Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia/) 
-[![GitHub stars](https://img.shields.io/github/stars/yogibagus/Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yogibagus/Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia)
 
 
 
